@@ -1,0 +1,7 @@
+display: flex;
+1. flex-basis: 240px;  //Set the width of div
+2. justify-content: space-between;   // Set the div at equal distance from each other after placing first div at left corner and last div at right corner
+3. flex-flow: row wrap; // wrap the divs if they dont fit in one row
+4. explain:nth-child(4) get the 4th child of explain
+
+Use span insted of div when required

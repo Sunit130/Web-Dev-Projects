@@ -1,2 +1,2 @@
 # Web-Dev-Projects
-These are some projects which I have completed in BOOTCAMP
+These are my assignment which I have completed in BOOTCAMP
